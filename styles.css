@@ -1,0 +1,16 @@
+body {
+    background: #f9f6ef;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    text-align: center;
+    color: rgb(52, 52, 52);
+    font-family: trebuchet MS, arial;
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+}
